@@ -4,7 +4,9 @@
 # Author: Daniel Baird daniel@danielbaird.com
 #
 # Date: 2 Oct 2015
-# Version: 0.02
+# Version: 0.03
+
+# arbitrary change
 
 # TODO: make sure ggplot2 is installed
 
